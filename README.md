@@ -9,3 +9,4 @@ A Sample Raffle Program
 - Then Click ok, now you can draw
 
 - If you want to reset all details, simply edit the excel file
+- Dont forget to save the excel file to be updated
