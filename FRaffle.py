@@ -448,4 +448,4 @@ if __name__ == "__main__":
         self.winMovie.setScaledSize(self.ui.WinFrame.size())
         self.winLbl.setMovie(self.winMovie)
         self.winMovie.start()
-    """   
+"""   
